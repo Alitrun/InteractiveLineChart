@@ -1,4 +1,4 @@
-# InteractiveLineChart
+# InteractiveLineChart (2018)
 An simple interactive graph slider featuring a draggable point on a smooth Bezier curve, for adjusting values like temperature or tracking data.
 Windows, Android, iOS, MacOS.
 
